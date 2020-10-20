@@ -1,4 +1,5 @@
 /Debug
+/Release
 Tcp_IP_Socket_Client.vcxproj
 Tcp_IP_Socket_Client.vcxproj.filters
 Tcp_IP_Socket_Client.vcxproj.user
